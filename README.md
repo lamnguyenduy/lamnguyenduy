@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @lamnguyenduy
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-lamnguyenduy/lamnguyenduy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Software Developer and Development Lead with over 10 years of experience in Dental X-ray Imaging, Automotive, and Mobile industries
+- Expertise lies in C++ with Qt framework, Digital Imaging and Communications in Medicine (DICOM) complemented by a strong background in developing 2D, 3D integrated software solutions
+- Committed to continuously refining technical expertise and leadership
