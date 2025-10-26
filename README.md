@@ -1,3 +1,2 @@
-- Software Developer and Development Lead with over 10 years of experience in Dental X-ray Imaging, Automotive, and Mobile industries
-- Expertise lies in C++ with Qt framework, Digital Imaging and Communications in Medicine (DICOM) complemented by a strong background in developing 2D, 3D integrated software solutions
-- Committed to continuously refining technical expertise and leadership
+- Software Engineering Lead with over 10 years of experience in Dental X-ray Imaging, Automotive, and Mobile industries
+- Expertise lies in C++ with Qt framework, Digital Imaging and Communications in Medicine (DICOM), TCP/IP Model complemented by a strong background in developing 2D, 3D integrated software solutions
