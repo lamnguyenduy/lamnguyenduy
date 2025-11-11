@@ -1,2 +1,1 @@
-- Software Engineering Lead with over 10 years of experience in Dental X-ray Imaging, Automotive, and Mobile industries
-- Expertise lies in C++ with Qt framework, Digital Imaging and Communications in Medicine (DICOM), TCP/IP Model complemented by a strong background in developing 2D, 3D integrated software solutions
+Experienced Software Engineer with over 10 years in Dental X-ray Imaging, Automotive, and Mobile industries. Seeking to contribute to innovative 2D/3D software development and expand expertise in embedded systems and computer vision applications, while continuously enhancing both technical and leadership capabilities
